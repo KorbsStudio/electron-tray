@@ -1,13 +1,13 @@
 {
-  "name": "electron-samplw",
+  "name": "electron-tray",
   "version": "1.0.0",
-  "description": "Basic structure for your first Electron application.",
+  "description": "Basic application with a tray, which is used to hide or show the application.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "author": "KorbsStudio",
   "devDependencies": {
-    "electron": "^13.0.1"
+    "electron": "^14.0.0"
   }
 }
