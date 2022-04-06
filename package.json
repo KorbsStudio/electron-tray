@@ -8,6 +8,6 @@
   },
   "author": "KorbsStudio",
   "devDependencies": {
-    "electron": "^14.0.0"
+    "electron": "^18.0.0"
   }
 }
